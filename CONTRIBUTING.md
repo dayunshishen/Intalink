@@ -1,9 +1,16 @@
 ![image](https://github.com/dayunshishen/openDemo/assets/39820598/997114d0-4822-4867-bfb3-648ac7ff3aaf)
+
 Developer Group（代码层面）
+
+
 Contributor
 如何成为 Contributor：
 
 在 SynthetIQ 的任何一个正式项目中成功提交一个 PR 并合并。
+
+
+
+
 
 Member
 加入 SynthetIQ GitHub 组织，成为 SynthetIQ 开源社区的一员。
@@ -28,6 +35,10 @@ Triage 权限。有权限操作 issue 和 pr，例如打 label、分配问题。
 
 详细的权限说明见 permissions-for-each-role
 
+
+
+
+
 Reviewer （可选）
 模块负责人，负责某个模块的 issue review 和 code review
 
@@ -45,6 +56,11 @@ Reviewer （可选）
 
 Reviewer 的职责
 负责某个模块的 issue review 和 code review,给出技术建议。有该模块相关的重大变更会 request review 模块 Reviewer。
+
+
+
+
+
 
 Committer
 如何成为 Committer：
@@ -78,6 +94,11 @@ Pull Request approve 权限；
 
 恭喜 杜书建 成为 SynthetIQ committer！
 
+
+
+
+
+
 PMC
 项目管理委员会，为项目核心管理团队，参与 roadmap 制定与社区相关的重大决议；
 
@@ -94,6 +115,11 @@ PMC
 Pull Request review 权限；
 Pull Request approve 权限；
 Merge 权限；
+
+
+
+
+
 User Group（社区层面）
 Community Leader
 如何成为 Community Leader：
@@ -122,6 +148,12 @@ Ambassador
 权利：
 
 获得 SynthetIQ 相关周边。
+
+
+
+
+
+
 城市站社区管理者
 如何成为城市站社区管理者：
 
